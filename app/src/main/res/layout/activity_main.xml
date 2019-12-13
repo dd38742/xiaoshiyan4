@@ -8,4 +8,5 @@
         android:layout_height="wrap_content"
         android:id="@+id/edit_text"
         android:hint="请输入学号，姓名"/>
+    /a
 </LinearLayout>
